@@ -6,7 +6,7 @@
       "websiteURL": "https://example.com/arduino",
       "email": "info@example.com",
       "help": {
-        "online": "https://example.com/forum"
+        "online": ""
       },
       "platforms": [
         {
@@ -20,7 +20,7 @@
           "checksum": "SHA-256:e0d81284a1d979e357dd404c6152c2c1d4703b9f2156fffe5590d9b3762a9640",
           "size": "701849",
           "boards": [
-            {"name": "TFG Zero"}
+            {"name": "TFG-Zero"}
           ],
           "toolsDependencies": [
             {
