@@ -9,7 +9,9 @@ with [this folder](https://github.com/Atalonica/AtArduinoCore-sam/raw/main/compo
 2. Open Arduino IDE and add new board support by going to `File > Preferences` and adding the next URL:<br>
 `https://raw.githubusercontent.com/Atalonica/AtArduinoCore-sam/main/package_arduino_index.json`<br>
 into `Additional Boards Manager URLs`.
-3. Go to `Tools > Board: > Boards Manager...` and search and install "Atalonica SAMx Boards".
+3. Go to `Tools > Board: > Boards Manager...` and search and install "Atalonica SAMx Boards".<br><br>
+ 
+If you see `CRC doesn't match, file is corrupted.` error, try again as it is probably a bug.
 
 ## Additional libraries
 - [LowPowerLab's RFM69](https://github.com/LowPowerLab/RFM69/)
