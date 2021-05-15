@@ -15,8 +15,8 @@
           "version": "1.0.0",
           "category": "Contributed",
           "help": { "online": "https://example.com/forum" },
-          "url": "https://github.com/Atalonica/AtArduinoCore-sam/raw/main/AtArduinoCore-SAM1.0.zip",
-          "archiveFileName": "AtArduinoCore-SAM1.0.zip",
+          "url": "https://github.com/Atalonica/AtArduinoCore-sam/raw/main/AtArduinoCore-SAM1.0.0.zip",
+          "archiveFileName": "AtArduinoCore-SAM1.0.0.zip",
           "checksum": "SHA-256:a8b4d8326f041de3e4212bef393c84a6bc0713ea822f7e9b74c2def2863b2621",
           "size": "1013248",
           "boards": [
