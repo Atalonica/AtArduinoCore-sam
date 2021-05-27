@@ -1,15 +1,12 @@
 # AtArduinoCore-sam
 ArduinoCore-samd modified to work with "TFG Zero" SAML21G18B board.<br>
-Based on ArduinoCore-samd modifications and added MCU support from [mattairtech](https://github.com/mattairtech/ArduinoCore-samd) and [Electronic Cats](https://github.com/ElectronicCats/ArduinoCore-samd).
+Based on ArduinoCore-samd modifications and added MCU support from [mattairtech](https://github.com/mattairtech/ArduinoCore-samd).
 
 ## Installation
-1. Replace Arduino's Atmel-CMSIS SAML21B `\component` folder located at<br>
-`C:\Users\<username>\AppData\Local\Arduino15\packages\arduino\tools\CMSIS-Atmel\1.2.0\CMSIS\Device\ATMEL\saml21b\include\component`<br>
-with [this folder](https://github.com/Atalonica/AtArduinoCore-sam/raw/main/component.zip) (unzip it first).
-2. Open Arduino IDE and add new board support by going to `File > Preferences` and adding the next URL:<br>
+1. Open Arduino IDE and add new board support by going to `File > Preferences` and adding the next URL:<br>
 `https://raw.githubusercontent.com/Atalonica/AtArduinoCore-sam/main/package_arduino_index.json`<br>
 into `Additional Boards Manager URLs`.
-3. Go to `Tools > Board: > Boards Manager...` and search and install "Atalonica SAMx Boards".<br><br>
+3. Go to `Tools > Board: > Boards Manager...` and search and install "Atalonica SAML Boards".<br><br>
  
 If you see `CRC doesn't match, file is corrupted.` error, try again as it is probably a bug.
 
@@ -53,7 +50,6 @@ DEALINGS IN THE SOFTWARE.
 
 Copyright (c) 2015 Arduino LLC.  All right reserved.
 Copyright (c) 2017-2018 MattairTech LLC. All right reserved.
-Copyright (c) 2018-2020 Electronic Cats SAPI de CV. All right reserved.
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
