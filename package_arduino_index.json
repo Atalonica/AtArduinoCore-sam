@@ -34,6 +34,11 @@
               "version": "1.7.0-atalonica-1"
             },
             {
+              "packager": "Atalonica",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.125-atalonica-1"
+            },
+            {
               "packager": "arduino",
               "name": "openocd",
               "version": "0.10.0-arduino7"
