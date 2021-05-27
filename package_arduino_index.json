@@ -65,8 +65,8 @@
             "host": "i686-mingw32",
             "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/CMSIS-Atmel-1.2.125-atalonica-1-mingw32.zip",
             "archiveFileName": "CMSIS-Atmel-1.2.125-atalonica-1-mingw32.zip",
-            "checksum": "SHA-256:8a475f3b9801ce428d8b40c4fd74acade970c952633ac888aca115e76118c63c",
-            "size": "353869"
+            "checksum": "SHA-256:3fd5d313e074f5db9474e2776252bdf8fc976310e6eba75aa9ee0e7dcf2ef86a",
+            "size": "353875"
           }
           ]
         },
@@ -78,8 +78,8 @@
             "host": "i686-mingw32",
             "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/bossac-1.7.0-atalonica-1-mingw32.zip",
             "archiveFileName": "bossac-1.7.0-atalonica-1-mingw32.zip",
-            "checksum": "SHA-256:e8709c30e072fe679cae80fc50d8251cac824dcc2a1b5d29b5f1b8906e8c89fe",
-            "size": "318440"
+            "checksum": "SHA-256:417e2039d1e5561b946945deac3d888da92edfe1613536a180d8f7e27396e28a",
+            "size": "318456"
           }
           ]
         }
