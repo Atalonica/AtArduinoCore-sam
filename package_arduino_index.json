@@ -17,8 +17,8 @@
           "help": { "online": "https://example.com/forum" },
           "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/AtArduinoCore-SAML-1.0.0.zip",
           "archiveFileName": "AtArduinoCore-SAML-1.0.0.zip",
-          "checksum": "SHA-256:8958b20a68589bb1ef18986e5c8ccdeb3fdfff1ef58b799fe940236cb576b5af",
-          "size": "348505",
+          "checksum": "SHA-256:37069c3a3fcfecec28fa221c015928b4c3332bf80b5e9ff1a82cb385d54160de",
+          "size": "395841",
           "boards": [
             {"name": "TFG-Zero"}
           ],
