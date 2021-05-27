@@ -29,7 +29,7 @@
               "version": "7-2017q4"
             },
             {
-              "packager": "atalonica",
+              "packager": "Atalonica",
               "name": "bossac",
               "version": "1.7.0-atalonica-1"
             },
@@ -44,7 +44,7 @@
               "version": "4.5.0"
             },
             {
-              "packager": "atalonica",
+              "packager": "Atalonica",
               "name": "CMSIS-Atmel",
               "version": "1.2.125-atalonica-1"
             },
