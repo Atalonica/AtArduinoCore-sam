@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Atalonica SAMx Boards",
+          "name": "Atalonica SAML Boards",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
