@@ -15,10 +15,10 @@
           "version": "1.0.0",
           "category": "Contributed",
           "help": { "online": "https://example.com/forum" },
-          "url": "https://github.com/Atalonica/AtArduinoCore-samL/raw/main/AtArduinoCore-SAML-1.0.0.zip",
+          "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/AtArduinoCore-SAML-1.0.0.zip",
           "archiveFileName": "AtArduinoCore-SAML-1.0.0.zip",
-          "checksum": "SHA-256:802c10b4f41baaddf6b2ab8abf122a7f8c0fbbf2e99ddc7fe21d516aeb314842",
-          "size": "1191210",
+          "checksum": "SHA-256:8958b20a68589bb1ef18986e5c8ccdeb3fdfff1ef58b799fe940236cb576b5af",
+          "size": "348505",
           "boards": [
             {"name": "TFG-Zero"}
           ],
@@ -29,14 +29,9 @@
               "version": "7-2017q4"
             },
             {
-              "packager": "arduino",
+              "packager": "atalonica",
               "name": "bossac",
-              "version": "1.7.0-arduino3"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
+              "version": "1.7.0-atalonica-1"
             },
             {
               "packager": "arduino",
@@ -49,9 +44,9 @@
               "version": "4.5.0"
             },
             {
-              "packager": "arduino",
+              "packager": "atalonica",
               "name": "CMSIS-Atmel",
-              "version": "1.2.0"
+              "version": "1.2.125-atalonica-1"
             },
             {
               "packager": "arduino",
@@ -63,43 +58,28 @@
       ],
       "tools": [
         {
+        "name": "CMSIS-Atmel",
+        "version": "1.2.125-atalonica-1",
+        "systems": [
+        {
+          "host": "i686-mingw32",
+          "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/CMSIS-Atmel-1.2.125-atalonica-1.zip",
+          "archiveFileName": "CMSIS-Atmel-1.2.125-atalonica-1.zip",
+          "checksum": "SHA-256:8a475f3b9801ce428d8b40c4fd74acade970c952633ac888aca115e76118c63c",
+          "size": "353869"
+        }
+        ]
+      },
+        {
           "name": "bossac",
-          "version": "1.7.0",
+          "version": "1.7.0-atalonica-1",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.7.0-mingw32.tar.gz",
-              "archiveFileName": "bossac-1.7.0-mingw32.tar.gz",
-              "checksum": "SHA-256:9ef7d11b4fabca0adc17102a0290957d5cc26ce46b422c3a5344722c80acc7b2",
-              "size": "243066"
-            },
-            {
-              "host": "x86_64-apple-darwin",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.7.0-i386-apple-darwin15.6.0.tar.gz",
-              "archiveFileName": "bossac-1.7.0-i386-apple-darwin15.6.0.tar.gz",
-              "checksum": "SHA-256:feac36ab38876c163dcf51bdbcfbed01554eede3d41c59a0e152e170fe5164d2",
-              "size": "63822"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.7.0-x86_64-linux-gnu.tar.gz",
-              "archiveFileName": "bossac-1.7.0-x86_64-linux-gnu.tar.gz",
-              "checksum": "SHA-256:9475c0c8596c1ba12dcbce60e48fef7559087fa8eccbea7bab732113f3c181ee",
-              "size": "31373"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.7.0-i686-linux-gnu.tar.gz",
-              "archiveFileName": "bossac-1.7.0-i686-linux-gnu.tar.gz",
-              "checksum": "SHA-256:17003b0bdc698d52eeb91b09c34aec501c6e0285b4aa88659ab7cc407a451a4d",
-              "size": "31086"
-            },
-            {
-              "host": "arm-linux-gnueabihf",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.7.0-arm-linux-gnueabihf.tar.gz",
-              "archiveFileName": "bossac-1.7.0-arm-linux-gnueabihf.tar.gz",
-              "checksum": "SHA-256:09e46d0af61b2189caaac0bc6d4dd15cb22c167fdedc56ec98602dd5f10e68e0",
-              "size": "27382"
+              "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/bossac-1.7.0-atalonica-1.zip",
+              "archiveFileName": "bossac-1.7.0-atalonica-1.zip",
+              "checksum": "SHA-256:e8709c30e072fe679cae80fc50d8251cac824dcc2a1b5d29b5f1b8906e8c89fe",
+              "size": "318440"
             }
           ]
         }
