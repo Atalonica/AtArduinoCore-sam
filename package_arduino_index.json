@@ -78,8 +78,8 @@
             "host": "i686-mingw32",
             "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/bossac-1.7.0-atalonica-1-mingw32.zip",
             "archiveFileName": "bossac-1.7.0-atalonica-1-mingw32.zip",
-            "checksum": "SHA-256:417e2039d1e5561b946945deac3d888da92edfe1613536a180d8f7e27396e28a",
-            "size": "318456"
+            "checksum": "SHA-256:09ee666cbd74432b18f414f29ffd7d1a159863e794ca8249622527f95ce15c61",
+            "size": "318786"
           }
           ]
         }
