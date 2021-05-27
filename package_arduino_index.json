@@ -58,18 +58,18 @@
       ],
       "tools": [
         {
-        "name": "CMSIS-Atmel",
-        "version": "1.2.125-atalonica-1",
-        "systems": [
-        {
-          "host": "i686-mingw32",
-          "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/CMSIS-Atmel-1.2.125-atalonica-1.zip",
-          "archiveFileName": "CMSIS-Atmel-1.2.125-atalonica-1.zip",
-          "checksum": "SHA-256:8a475f3b9801ce428d8b40c4fd74acade970c952633ac888aca115e76118c63c",
-          "size": "353869"
-        }
-        ]
-      },
+          "name": "CMSIS-Atmel",
+          "version": "1.2.125-atalonica-1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/CMSIS-Atmel-1.2.125-atalonica-1.zip",
+              "archiveFileName": "CMSIS-Atmel-1.2.125-atalonica-1.zip",
+              "checksum": "SHA-256:8a475f3b9801ce428d8b40c4fd74acade970c952633ac888aca115e76118c63c",
+              "size": "353869"
+            }
+          ]
+        },
         {
           "name": "bossac",
           "version": "1.7.0-atalonica-1",
