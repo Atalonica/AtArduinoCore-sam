@@ -29,58 +29,48 @@
               "version": "7-2017q4"
             },
             {
-              "packager": "Atalonica",
-              "name": "bossac",
-              "version": "1.7.0-atalonica-1"
-            },
-            {
-              "packager": "Atalonica",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.125-atalonica-1"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino7"
-            },
-            {
               "packager": "arduino",
               "name": "CMSIS",
               "version": "4.5.0"
             },
             {
-              "packager": "arduino",
-              "name": "arduinoOTA",
-              "version": "1.2.1"
-            }
+              "packager": "Atalonica",
+              "name": "bossac",
+              "version": "1.7.0"
+            },
+            {
+              "packager": "Atalonica",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.125"
+            },
           ]
         }
       ],
       "tools": [
         {
           "name": "CMSIS-Atmel",
-          "version": "1.2.125-atalonica-1",
+          "version": "1.2.125",
           "systems": [
-          {
-            "host": "i686-mingw32",
-            "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/CMSIS-Atmel-1.2.125-atalonica-1-mingw32.zip",
-            "archiveFileName": "CMSIS-Atmel-1.2.125-atalonica-1-mingw32.zip",
-            "checksum": "SHA-256:3fd5d313e074f5db9474e2776252bdf8fc976310e6eba75aa9ee0e7dcf2ef86a",
-            "size": "353875"
-          }
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/CMSIS-Atmel-1.2.125.tar.gz",
+              "archiveFileName": "CMSIS-Atmel-1.2.125.tar.gz",
+              "checksum": "SHA-256:F1B4D7F85398E3F461808E113D38B724F79E077527A9801D780AC63DFE526ED3",
+              "size": "348976"
+            }
           ]
         },
         {
           "name": "bossac",
-          "version": "1.7.0-atalonica-1",
+          "version": "1.7.0",
           "systems": [
-          {
-            "host": "i686-mingw32",
-            "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/bossac-1.7.0-atalonica-1-mingw32.zip",
-            "archiveFileName": "bossac-1.7.0-atalonica-1-mingw32.zip",
-            "checksum": "SHA-256:09ee666cbd74432b18f414f29ffd7d1a159863e794ca8249622527f95ce15c61",
-            "size": "318786"
-          }
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/bossac-1.7.0-mingw32.tar.gz",
+              "archiveFileName": "bossac-1.7.0-mingw32.tar.gz",
+              "checksum": "SHA-256:367866739CAE4367434AE186B56F5E2F06F11C9E7CBD38C6F270271A775AB01B",
+              "size": "318255"
+            }
           ]
         }
       ]
