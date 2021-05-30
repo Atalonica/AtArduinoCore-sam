@@ -15,10 +15,10 @@
           "version": "1.0.0",
           "category": "Contributed",
           "help": { "online": "https://example.com/forum" },
-          "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/AtArduinoCore-SAML-1.0.0.zip",
-          "archiveFileName": "AtArduinoCore-SAML-1.0.0.zip",
-          "checksum": "SHA-256:37069c3a3fcfecec28fa221c015928b4c3332bf80b5e9ff1a82cb385d54160de",
-          "size": "395841",
+          "url": "https://github.com/Atalonica/atalonica-packaging/raw/main/AtArduinoCore-SAML-1.0.0.tar.gz",
+          "archiveFileName": "AtArduinoCore-SAML-1.0.0.tar.gz",
+          "checksum": "SHA-256:D78DE70966436C875303862F60A60579ABE9ADED704A3D102E05047D61D020ED",
+          "size": "244378",
           "boards": [
             {"name": "TFG-Zero"}
           ],
