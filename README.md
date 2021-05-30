@@ -4,7 +4,7 @@ Based on ArduinoCore-samd modifications and added MCU support from [mattairtech]
 
 ## Installation
 1. Open Arduino IDE and add new board support by going to `File > Preferences` and adding the next URL:<br>
-`https://raw.githubusercontent.com/Atalonica/AtArduinoCore-samL/main/package_arduino_index.json`<br>
+`https://raw.githubusercontent.com/Atalonica/AtArduinoCore-samL/main/package_atalonica_index.json`<br>
 into `Additional Boards Manager URLs`.
 3. Go to `Tools > Board: > Boards Manager...` and search and install "Atalonica SAML Boards".<br><br>
  
