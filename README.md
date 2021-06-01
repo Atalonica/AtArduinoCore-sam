@@ -20,4 +20,4 @@ If you see `CRC doesn't match, file is corrupted.` error, try again as it is pro
 
 This core has been developed by Arduino LLC in collaboration with Atmel.
 Fork based on development and modifications by MattairTech LLC and Atalonica.
-See [LICENSES](https://github.com/Atalonica/AtArduinoCore-samL/blob/main/LICENSES) file.
+See [LICENSE](https://github.com/Atalonica/AtArduinoCore-samL/blob/main/LICENSE) file.
