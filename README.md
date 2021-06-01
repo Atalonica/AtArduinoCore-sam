@@ -1,5 +1,5 @@
 # AtArduinoCore-samL
-ArduinoCore-samd modified to work with "TFG Zero" SAML21G18B board.<br>
+ArduinoCore-samd modified to work with "TFG Zero" SAML21G18B board (added support for the built-in TRNG).<br>
 Based on ArduinoCore-samd modifications and added MCU support from [mattairtech](https://github.com/mattairtech/ArduinoCore-samd).
 
 ## Installation
